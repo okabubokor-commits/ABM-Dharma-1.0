@@ -1,0 +1,6 @@
+{
+  "name": "DHARMA: THE CHRONICLES OF BHARAT - SWARAJYUGA EDITION",
+  "description": "A strategic card duel based on the CLeMaR taxonomy, featuring the 52-card Swaraj Yuga deck of the Indian Freedom Struggle, revolutionary branching chains, and authentic historical lore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
